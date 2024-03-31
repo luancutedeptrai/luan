@@ -1,0 +1,27 @@
+
+#collection .card .card-body {
+    padding: 5px;
+}
+
+
+.card-img-bottom:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+    transition: 0.3s linear;
+}
+
+
+
+.maind-flex {
+    display: flex;
+    justify-content: center; /* căn giữa theo chiều ngang */
+    align-items: center; /* căn giữa theo chiều dọc */
+  }
+
+
+  .card_head{text-align: center;
+
+  }
+.card-title{
+    font-weight: bold;
+}
